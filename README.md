@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="320" height="320" alt="535CC599-DFC0-4596-BDD4-6DD394B0156D" src="https://github.com/user-attachments/assets/9ccd0511-2c48-48b5-93a3-5802e802829f" />
+
 
 <!--
 **alpinemily/alpinemily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
